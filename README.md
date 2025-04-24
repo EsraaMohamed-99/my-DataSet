@@ -12,6 +12,7 @@ Key Features:
 
 
 2- Anthropometric Data:
+
 📌 Height: - Height of the patient (cm).
 
 📌 weight: - Weight of the patient (kg).
@@ -20,12 +21,14 @@ Key Features:
 
 
 3- Blood Pressure:
+
 📌 ap_hi: - Systolic of the patient (ap_hi).
 
 📌 ap_lo: - Diastolic of the patient (ap_lo).
 
 
 4- Health Indicators:
+
 📌 cholesterol: - Cholesterol of the patient (1: Low, 2: Medium, 3: High).
 
 📌 gluc: - glucose of the patient (1: Low, 2: Medium, 3: High).
@@ -42,6 +45,7 @@ Key Features:
 📌 Cardio: - Cardiovascular disease of the patient (1: Present, 0: Absent).
 
 Dataset Overview
+
 1- Size: (13*70000) Thousands of individual records.
 
 
